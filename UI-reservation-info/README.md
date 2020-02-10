@@ -16,3 +16,10 @@
 * Clicking the price should allow user to view a breakdown of price into each day and the breakdown of room/tax/fees
 
 ## Candidate Notes
+1. Clone the git repo
+2. open the folder on a editor (visual studio code etc)
+3. open the terminal and locate to the reservation-app folder
+4. run the command npm i
+5. once step 4 is done, run the command npm start to start the application
+
+(The dates in the data.json are 01-01-2020 and 02-11-2025. please select these dates to apply filters feature.)
